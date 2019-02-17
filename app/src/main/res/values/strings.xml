@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FairfaxApplication</string>
+    <string name="news_article_activity_title">News Articles</string>
 </resources>
