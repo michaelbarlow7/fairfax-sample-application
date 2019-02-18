@@ -4,7 +4,6 @@ import android.arch.core.executor.testing.InstantTaskExecutorRule
 import android.arch.lifecycle.Observer
 import com.nhaarman.mockitokotlin2.mock
 import io.reactivex.Single
-import io.reactivex.android.plugins.RxAndroidPlugins
 import org.junit.Test
 
 import org.junit.Before
@@ -12,7 +11,6 @@ import org.junit.Rule
 import org.junit.runner.RunWith
 import org.mockito.Mock
 import org.mockito.Mockito
-import org.mockito.Mockito.mock
 import org.mockito.junit.MockitoJUnitRunner
 import org.mockito.Mockito.verify
 
@@ -34,7 +32,7 @@ class NewsArticleViewModelUnitTest {
 
     lateinit var newsArticleViewModel: NewsArticleViewModel
 
-    val mockSuccessArticleList by lazy {
+    private val mockSuccessArticleList by lazy {
         val firstArticle = NewsArticle()
         listOf(firstArticle)
     }
