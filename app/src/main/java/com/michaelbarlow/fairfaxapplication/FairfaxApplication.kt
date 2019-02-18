@@ -18,7 +18,10 @@ class FairfaxApplication : Application() {
         startKoin(this, listOf(appModule))
     }
 
-    val appModule = module {
+    /**
+     * Module for KOIN dependency injection
+     */
+    private val appModule = module {
         single {createNetworkClient()}
 
         single { NewsArticleRepository(get()) }

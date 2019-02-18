@@ -13,6 +13,13 @@ data class NewsArticle(val id: Long = -1,
                             val width: Int = 0,
                             val height: Int = 0)
 
+    /**
+     * To get the smallest image, we find the image with the smallest
+     * width attribute.
+     *
+     * There is a chance that there are no images related to the story, which
+     * the app should handle gracefully
+     */
     fun getSmallestImageURL():String? {
         return relatedImages?.minBy { it.width }?.url
     }

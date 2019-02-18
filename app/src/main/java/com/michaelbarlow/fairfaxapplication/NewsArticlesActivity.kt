@@ -9,6 +9,9 @@ import android.view.View
 import kotlinx.android.synthetic.main.activity_news_articles.*
 import org.koin.android.viewmodel.ext.android.viewModel
 
+/**
+ * The main Activity class, shows list of news articles.
+ */
 class NewsArticlesActivity : AppCompatActivity() {
 
     private val newsArticleViewModel: NewsArticleViewModel by viewModel()
@@ -24,6 +27,7 @@ class NewsArticlesActivity : AppCompatActivity() {
         newsArticleListAdapter = NewsArticleListAdapter()
         newsArticleRecyclerView.adapter = newsArticleListAdapter
 
+        // Sets UI based on network status and data
         newsArticleViewModel.getNewsArticles().observe(this, Observer<Resource<List<NewsArticle>>>{ resource ->
             when(resource?.status){
                 Resource.Status.ERROR -> {
@@ -56,7 +60,5 @@ class NewsArticlesActivity : AppCompatActivity() {
         statusText.text = getString(R.string.status_text_error)
         statusText.setTextColor(Color.RED)
         statusText.visibility = View.VISIBLE
-
-//        newsArticleRecyclerView.visibility = View.GONE
     }
 }

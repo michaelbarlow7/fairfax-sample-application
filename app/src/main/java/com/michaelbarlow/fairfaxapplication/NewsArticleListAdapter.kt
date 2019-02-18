@@ -10,6 +10,9 @@ import kotlinx.android.synthetic.main.item_news_article.view.*
 
 class NewsArticleListAdapter : RecyclerView.Adapter<NewsArticleListAdapter.NewsArticleViewHolder>() {
 
+    /**
+     * Custom setter notifies adapter if the data set changes
+     */
     var newsArticleList = emptyList<NewsArticle>()
         set(value) {
             field = value
@@ -28,7 +31,6 @@ class NewsArticleListAdapter : RecyclerView.Adapter<NewsArticleListAdapter.NewsA
     }
 
     override fun onBindViewHolder(holder: NewsArticleViewHolder, position: Int) {
-        // TODO Set onclick listener for view?
         val article = newsArticleList[position]
         holder.view.newsArticleHeadLine.text = article.headline
         holder.view.newsArticleAbstract.text = article.theAbstract

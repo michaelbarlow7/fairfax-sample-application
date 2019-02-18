@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity
 import android.webkit.WebViewClient
 import kotlinx.android.synthetic.main.activity_article_view.*
 
+/**
+ * Basic activity that shows the url passed into extras in a webview
+ */
 class ArticleViewActivity : AppCompatActivity(){
 
     companion object {

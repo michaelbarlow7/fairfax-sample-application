@@ -6,16 +6,23 @@ import android.arch.lifecycle.ViewModel
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 
-class NewsArticleViewModel(val newsArticleRepository: NewsArticleRepository) : ViewModel() {
+/**
+ * ViewModel for News Articles
+ */
+class NewsArticleViewModel(private val newsArticleRepository: NewsArticleRepository) : ViewModel() {
 
     private val disposables = CompositeDisposable()
+
+    /**
+     * When the News Articles livedata is first accessed, we load the data from the
+     * repository in an attempt to populate it.
+     */
     private val newsArticles: MutableLiveData<Resource<List<NewsArticle>>> by lazy {
         MutableLiveData<Resource<List<NewsArticle>>>().also {
             loadData()
         }
     }
 
-    // Could be recursive?
     private fun loadData() {
         disposables.add(newsArticleRepository.getNewsArticles()
             .subscribeOn(Schedulers.io())
@@ -26,15 +33,13 @@ class NewsArticleViewModel(val newsArticleRepository: NewsArticleRepository) : V
             }))
     }
 
-    fun refreshData() {
-        newsArticles.postValue(Resource(Resource.Status.LOADING))
-        loadData()
-    }
-
     fun getNewsArticles(): LiveData<Resource<List<NewsArticle>>> {
         return newsArticles
     }
 
+    /**
+     * Any RxJava observables are cleared when the LiveData is cleared
+     */
     override fun onCleared() {
         super.onCleared()
         disposables.dispose()
