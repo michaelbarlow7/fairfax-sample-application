@@ -5,6 +5,13 @@
     android:layout_height="match_parent"
     tools:context=".NewsArticlesActivity">
 
+    <TextView
+        android:id="@+id/statusText"
+        android:textSize="18sp"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/newsArticleRecyclerView"
         android:scrollbars="vertical"

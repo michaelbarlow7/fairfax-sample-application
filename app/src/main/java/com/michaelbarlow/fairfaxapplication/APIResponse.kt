@@ -1,3 +1,3 @@
 package com.michaelbarlow.fairfaxapplication
 
-data class APIResponse(private val assets:List<NewsArticle>)
+data class APIResponse(val assets:List<NewsArticle>)

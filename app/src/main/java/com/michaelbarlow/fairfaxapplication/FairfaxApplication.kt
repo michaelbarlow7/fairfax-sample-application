@@ -1,6 +1,8 @@
 package com.michaelbarlow.fairfaxapplication
 
 import android.app.Application
+import okhttp3.OkHttpClient
+import okhttp3.logging.HttpLoggingInterceptor
 import org.koin.android.ext.android.startKoin
 import org.koin.android.viewmodel.ext.koin.viewModel
 import org.koin.dsl.module.module
@@ -25,8 +27,14 @@ class FairfaxApplication : Application() {
     }
 
     private fun createNetworkClient() : FairfaxAPIService {
+        val interceptor = HttpLoggingInterceptor()
+        interceptor.level = HttpLoggingInterceptor.Level.BODY
+
+        val client = OkHttpClient.Builder().addInterceptor(interceptor).build()
+
         val retrofit =  Retrofit.Builder()
             .baseUrl("https://bruce-v2-mob.fairfaxmedia.com.au/")
+//            .client(client)
             .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
             .addConverterFactory(GsonConverterFactory.create())
             .build()

@@ -1,4 +1,13 @@
 package com.michaelbarlow.fairfaxapplication
 
-class NewsArticleRepository(val fairfaxAPIService:FairfaxAPIService) {
+import io.reactivex.Single
+
+class NewsArticleRepository(private val fairfaxAPIService:FairfaxAPIService) {
+
+    fun getNewsArticles(): Single<List<NewsArticle>> {
+        return fairfaxAPIService.getNewsArticles()
+            .map {
+                it.assets
+            }
+    }
 }

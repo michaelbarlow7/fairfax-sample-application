@@ -13,8 +13,8 @@ data class NewsArticle(val id: Long = -1,
                             val width: Int = 0,
                             val height: Int = 0)
 
-    val smallestImageURL:String? by lazy {
-        relatedImages?.minBy { it.width }?.url
+    fun getSmallestImageURL():String? {
+        return relatedImages?.minBy { it.width }?.url
     }
 
 }

@@ -17,7 +17,6 @@
             android:layout_alignParentTop="true"
             android:ellipsize="marquee"
             android:padding="@dimen/news_article_headline_padding"
-            android:text="Bad debts, failed contracts across Asia trail Manus contractor Paladin"
             android:textSize="@dimen/news_article_headline_textsize"
             android:textStyle="bold" />
 
@@ -33,10 +32,10 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/newsArticleHeadLine"
             android:layout_toRightOf="@id/newsArticleImage"
+            android:layout_toEndOf="@id/newsArticleImage"
             android:ellipsize="end"
             android:paddingLeft="4dp"
             android:paddingRight="4dp"
-            android:text="Who's right on refugees? The new breed of proudly centrist independents or the Morrison government? This could determine the election outcome. Who's right on refugees? The new breed of proudly centrist independents or the Mor. Who's right on refugees? The new breed of proudly centrist independents or the Mor"
             android:textSize="@dimen/news_article_abstract_textsize" />
         <TextView
             android:id="@+id/newsArticleByLine"
@@ -45,7 +44,9 @@
             android:layout_below="@id/newsArticleAbstract"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
-            android:text="Robert Penfolds"
+            android:layout_toRightOf="@id/newsArticleImage"
+            android:layout_toEndOf="@id/newsArticleImage"
+            android:gravity="bottom|right"
             android:textSize="@dimen/news_article_abstract_textsize"
             android:textStyle="italic" />
 
