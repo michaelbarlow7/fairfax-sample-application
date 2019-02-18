@@ -13,7 +13,7 @@ class NewsArticleRepository(private val fairfaxAPIService: FairfaxAPIService) {
     fun getNewsArticles(): Single<List<NewsArticle>> {
         return fairfaxAPIService.getNewsArticles()
             .map {
-                it.assets.sortedByDescending { t -> t.timeStamp }
+                it.assets.sortedByDescending { newsArticle -> newsArticle.timeStamp }
             }
     }
 }
