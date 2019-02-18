@@ -1,8 +1,11 @@
-package com.michaelbarlow.fairfaxapplication
+package com.michaelbarlow.fairfaxapplication.newsarticles.viewmodel
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.MutableLiveData
 import android.arch.lifecycle.ViewModel
+import com.michaelbarlow.fairfaxapplication.Resource
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticle
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticleRepository
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 
@@ -27,7 +30,12 @@ class NewsArticleViewModel(private val newsArticleRepository: NewsArticleReposit
         disposables.add(newsArticleRepository.getNewsArticles()
             .subscribeOn(Schedulers.io())
             .subscribe({
-                newsArticles.postValue(Resource(Resource.Status.SUCCESS, it))
+                newsArticles.postValue(
+                    Resource(
+                        Resource.Status.SUCCESS,
+                        it
+                    )
+                )
             }, {
                 newsArticles.postValue(Resource(Resource.Status.ERROR))
             }))

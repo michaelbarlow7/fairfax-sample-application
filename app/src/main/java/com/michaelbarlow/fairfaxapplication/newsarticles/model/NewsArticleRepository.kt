@@ -1,5 +1,7 @@
-package com.michaelbarlow.fairfaxapplication
+package com.michaelbarlow.fairfaxapplication.newsarticles.model
 
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.FairfaxAPIService
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticle
 import io.reactivex.Single
 
 /**
@@ -7,7 +9,7 @@ import io.reactivex.Single
  *
  * Refines the data a little bit (i.e. returns list of NewsArticles rather than raw data)
  */
-class NewsArticleRepository(private val fairfaxAPIService:FairfaxAPIService) {
+class NewsArticleRepository(private val fairfaxAPIService: FairfaxAPIService) {
 
     fun getNewsArticles(): Single<List<NewsArticle>> {
         return fairfaxAPIService.getNewsArticles()

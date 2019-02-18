@@ -1,4 +1,4 @@
-package com.michaelbarlow.fairfaxapplication
+package com.michaelbarlow.fairfaxapplication.newsarticles.model
 
 /**
  * The base data class when requesting the API directly

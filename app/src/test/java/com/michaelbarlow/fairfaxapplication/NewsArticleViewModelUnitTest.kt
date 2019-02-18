@@ -2,6 +2,9 @@ package com.michaelbarlow.fairfaxapplication
 
 import android.arch.core.executor.testing.InstantTaskExecutorRule
 import android.arch.lifecycle.*
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticle
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticleRepository
+import com.michaelbarlow.fairfaxapplication.newsarticles.viewmodel.NewsArticleViewModel
 import io.reactivex.Single
 import org.junit.Assert
 import org.junit.Test
@@ -61,7 +64,8 @@ class NewsArticleViewModelUnitTest {
 
     @Before
     fun setup() {
-        newsArticleViewModel = NewsArticleViewModel(newsArticleRepository)
+        newsArticleViewModel =
+            NewsArticleViewModel(newsArticleRepository)
     }
 
     @Test

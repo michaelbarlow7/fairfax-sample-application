@@ -1,8 +1,9 @@
 package com.michaelbarlow.fairfaxapplication
 
 import android.app.Application
-import okhttp3.OkHttpClient
-import okhttp3.logging.HttpLoggingInterceptor
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.FairfaxAPIService
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticleRepository
+import com.michaelbarlow.fairfaxapplication.newsarticles.viewmodel.NewsArticleViewModel
 import org.koin.android.ext.android.startKoin
 import org.koin.android.viewmodel.ext.koin.viewModel
 import org.koin.dsl.module.module

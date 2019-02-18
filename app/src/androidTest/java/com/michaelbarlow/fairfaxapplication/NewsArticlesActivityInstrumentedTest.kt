@@ -1,17 +1,15 @@
 package com.michaelbarlow.fairfaxapplication
 
-import android.support.test.InstrumentationRegistry
 import android.support.test.espresso.Espresso.onView
 import android.support.test.espresso.assertion.ViewAssertions.matches
 import android.support.test.rule.ActivityTestRule
 import android.support.test.runner.AndroidJUnit4
 import android.support.test.espresso.intent.Intents
 import android.support.test.espresso.matcher.ViewMatchers.*
+import com.michaelbarlow.fairfaxapplication.newsarticles.ui.NewsArticlesActivity
 import io.appflate.restmock.RESTMockServer
 import io.appflate.restmock.android.AndroidLogger
-import io.appflate.restmock.logging.RESTMockLogger
 import io.appflate.restmock.utils.RequestMatchers.isGET
-import io.appflate.restmock.utils.RequestMatchers.pathContains
 import org.hamcrest.Matchers.containsString
 import org.hamcrest.Matchers.not
 
@@ -35,7 +33,8 @@ class NewsArticlesActivityInstrumentedTest {
     }
 
     @get:Rule
-    var activityRule: ActivityTestRule<NewsArticlesActivity> = ActivityTestRule(NewsArticlesActivity::class.java, false, false)
+    var activityRule: ActivityTestRule<NewsArticlesActivity> = ActivityTestRule(
+        NewsArticlesActivity::class.java, false, false)
 
     @Before
     fun setup() {

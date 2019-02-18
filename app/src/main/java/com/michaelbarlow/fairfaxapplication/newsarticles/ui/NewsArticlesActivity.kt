@@ -1,4 +1,4 @@
-package com.michaelbarlow.fairfaxapplication
+package com.michaelbarlow.fairfaxapplication.newsarticles.ui
 
 import android.arch.lifecycle.Observer
 import android.graphics.Color
@@ -6,6 +6,10 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
 import android.view.View
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticle
+import com.michaelbarlow.fairfaxapplication.newsarticles.viewmodel.NewsArticleViewModel
+import com.michaelbarlow.fairfaxapplication.R
+import com.michaelbarlow.fairfaxapplication.Resource
 import kotlinx.android.synthetic.main.activity_news_articles.*
 import org.koin.android.viewmodel.ext.android.viewModel
 

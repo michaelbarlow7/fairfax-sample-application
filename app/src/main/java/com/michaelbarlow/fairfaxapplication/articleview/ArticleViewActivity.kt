@@ -1,8 +1,9 @@
-package com.michaelbarlow.fairfaxapplication
+package com.michaelbarlow.fairfaxapplication.articleview
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.webkit.WebViewClient
+import com.michaelbarlow.fairfaxapplication.R
 import kotlinx.android.synthetic.main.activity_article_view.*
 
 /**

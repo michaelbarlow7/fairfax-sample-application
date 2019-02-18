@@ -1,4 +1,4 @@
-package com.michaelbarlow.fairfaxapplication
+package com.michaelbarlow.fairfaxapplication.newsarticles.model
 
 data class NewsArticle(val id: Long = -1,
                        val headline: String? = null,

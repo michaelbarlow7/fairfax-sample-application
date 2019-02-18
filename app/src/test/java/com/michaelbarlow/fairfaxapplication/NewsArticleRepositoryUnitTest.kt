@@ -1,9 +1,12 @@
 package com.michaelbarlow.fairfaxapplication
 
 import android.arch.core.executor.testing.InstantTaskExecutorRule
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.APIResponse
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.FairfaxAPIService
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticle
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.NewsArticleRepository
 import io.reactivex.Single
 import io.reactivex.observers.TestObserver
-import io.reactivex.subscribers.TestSubscriber
 import junit.framework.Assert.assertEquals
 import org.junit.Before
 import org.junit.Rule
@@ -11,7 +14,6 @@ import org.junit.Test
 import org.junit.runner.RunWith
 import org.mockito.Mock
 import org.mockito.Mockito
-import org.mockito.Mockito.verify
 import org.mockito.junit.MockitoJUnitRunner
 
 @RunWith(MockitoJUnitRunner::class)
@@ -28,7 +30,8 @@ class NewsArticleRepositoryUnitTest {
 
     @Before
     fun setup() {
-        newsArticleRepository = NewsArticleRepository(fairfaxAPIService)
+        newsArticleRepository =
+            NewsArticleRepository(fairfaxAPIService)
 
         val mockSuccessArticleList by lazy {
             val firstArticle = NewsArticle()

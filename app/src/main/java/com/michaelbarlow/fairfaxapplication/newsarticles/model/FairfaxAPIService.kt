@@ -1,5 +1,6 @@
-package com.michaelbarlow.fairfaxapplication
+package com.michaelbarlow.fairfaxapplication.newsarticles.model
 
+import com.michaelbarlow.fairfaxapplication.newsarticles.model.APIResponse
 import io.reactivex.Single
 import retrofit2.http.GET
 
