@@ -16,7 +16,9 @@ android {
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner 'com.michaelbarlow.fairfaxapplication.FairfaxTestRunner'
+//        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+//        testInstrumentationRunner 'io.appflate.restmock.android.RESTMockTestRunner'
     }
     buildTypes {
         release {
@@ -49,7 +51,15 @@ dependencies {
     // Picasso image loading library
     implementation 'com.squareup.picasso:picasso:2.71828'
 
+    // Unit tests
     testImplementation 'junit:junit:4.12'
+
+    // UI tests
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-intents:3.0.2'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test:rules:1.0.2'
+    // RESTMockServer for testing
+    androidTestImplementation 'com.github.andrzejchm.RESTMock:android:0.3.3'
 }

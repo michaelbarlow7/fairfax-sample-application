@@ -25,7 +25,6 @@ class NewsArticlesActivity : AppCompatActivity() {
         newsArticleRecyclerView.adapter = newsArticleListAdapter
 
         newsArticleViewModel.getNewsArticles().observe(this, Observer<Resource<List<NewsArticle>>>{ resource ->
-            println("Resource: $resource")
             when(resource?.status){
                 Resource.Status.ERROR -> {
                     setErrorStatus()
@@ -34,9 +33,13 @@ class NewsArticlesActivity : AppCompatActivity() {
                     setLoadingStatus()
                 }
                 Resource.Status.SUCCESS -> {
-                    // TODO: Show "no articles available" if empty
+                    if (resource.data.isNullOrEmpty()){
+                        statusText.visibility = View.VISIBLE
+                        statusText.text = getString(R.string.no_articles_message)
+                    } else {
+                        statusText.visibility = View.GONE
+                    }
                     newsArticleListAdapter.newsArticleList = resource.data!!
-                    statusText.visibility = View.GONE
                 }
             }
         })

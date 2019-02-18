@@ -1,0 +1,3691 @@
+{
+  "id": 67184313,
+  "categories": [],
+  "authors": [],
+  "url": "/content/dam/lists/1/3/z/z/q/x/list.html",
+  "lastModified": 1550226627330,
+  "onTime": 1425955024417,
+  "sponsored": false,
+  "displayName": "AFR iPad Editor's Choice",
+  "assets": [
+    {
+      "id": 1030130483,
+      "categories": [
+        {
+          "name": "National",
+          "sectionPath": "/news/politics/national",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Andrew Clark",
+          "title": "Senior Writer",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026186655,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/o/v/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507695127182.png",
+              "lastModified": 1507695127182,
+              "sponsored": false,
+              "description": "Andrew Clark AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1507695127182
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/politics/national/independents-believe-morrison-has-got-it-wrong-on-refugees-20190214-h1b9rn",
+      "lastModified": 1550232000000,
+      "onTime": 1550232000000,
+      "sponsored": false,
+      "headline": "Independents believe Morrison has got it wrong on refugees",
+      "indexHeadline": "Battle for the border",
+      "tabletHeadline": "",
+      "theAbstract": "Who's right on refugees? The new breed of proudly centrist independents or the Morrison government? This could determine the election outcome. ",
+      "byLine": "Andrew Clark",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1030132430,
+          "categories": [
+            {
+              "name": "Politics",
+              "sectionPath": "/news/politics",
+              "orderNum": 1
+            },
+            {
+              "name": "Election",
+              "sectionPath": "/news/politics/election",
+              "orderNum": 3
+            },
+            {
+              "name": "Opinion",
+              "sectionPath": "/opinion",
+              "orderNum": 0
+            },
+            {
+              "name": "Immigration",
+              "sectionPath": "/news/policy/immigration",
+              "orderNum": 2
+            },
+            {
+              "name": "Laura Tingle",
+              "sectionPath": "/opinion/columnists/laura-tingle",
+              "orderNum": 4
+            }
+          ],
+          "authors": [
+            {
+              "name": "Laura Tingle",
+              "title": "Columnist",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026541745,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/z/6/c/o/h/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508729299547.png",
+                  "lastModified": 1508729299547,
+                  "sponsored": false,
+                  "description": "Laura Tingle Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508729299547
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/opinion/the-asylum-seeker-story-you-should-have-read-this-week-20190215-h1bb9q",
+          "lastModified": 1550208230597,
+          "onTime": 1550200822000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "The asylum seeker story you should have read this week",
+          "timeStamp": 1550208229129
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030128423,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/8/6/f/image.related.afrIndexLead.1536x1010.h1b9rn.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550038561899,
+          "sponsored": false,
+          "description": "Prime Minister Scott Morrison says Labor's agreement to refugee evacuation rule changes based on medical grounds show Opposition Leader Bill Shorten \"hasn't got the ticker … for this stuff\".",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1550038561899
+        },
+        {
+          "id": 1030128423,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/8/6/f/image.related.afrArticleInline.620x0.h1b9rn.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550038561899,
+          "sponsored": false,
+          "description": "Prime Minister Scott Morrison says Labor's agreement to refugee evacuation rule changes based on medical grounds show Opposition Leader Bill Shorten \"hasn't got the ticker … for this stuff\".",
+          "photographer": "David Rowe",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550038561899
+        },
+        {
+          "id": 1030016455,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/8/t/s/7/image.related.afrArticleInline.620x0.h1b9rn.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1544078404229,
+          "sponsored": false,
+          "description": "Rebekha Sharkie, Julia Banks, Kerryn Phelps and Cathy McGowan are part of a rising movement of independents. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1544078404229
+        },
+        {
+          "id": 1030130568,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/9/u/0/image.related.afrArticleLead.1536x1010.h1b9rn.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550122212720,
+          "sponsored": false,
+          "description": "Mark Kelly has sold thousands of Vote Tony Out T-shirts.",
+          "photographer": "Louise Kennerley",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550122212720
+        },
+        {
+          "id": 1030130583,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/9/u/f/image.related.afrArticleInline.620x0.h1b9rn.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550122294813,
+          "sponsored": false,
+          "description": "Zali Steggall speaks to commuters at a Waringah bus stop.",
+          "photographer": "Louise Kennerley",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550122294813
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Battle for the border",
+        "overrideIdentifier": "",
+        "overrideAbstract": "Who's right on refugees? The new breed of proudly centrist independents or the Morrison government? This could determine the election outcome. "
+      },
+      "timeStamp": 1550232000000
+    },
+    {
+      "id": 1030132430,
+      "categories": [
+        {
+          "name": "Politics",
+          "sectionPath": "/news/politics",
+          "orderNum": 1
+        },
+        {
+          "name": "Laura Tingle",
+          "sectionPath": "/opinion/columnists/laura-tingle",
+          "orderNum": 4
+        },
+        {
+          "name": "Immigration",
+          "sectionPath": "/news/policy/immigration",
+          "orderNum": 2
+        },
+        {
+          "name": "Election",
+          "sectionPath": "/news/politics/election",
+          "orderNum": 3
+        },
+        {
+          "name": "Opinion",
+          "sectionPath": "/opinion",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Laura Tingle",
+          "title": "Columnist",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026541745,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/z/6/c/o/h/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508729299547.png",
+              "lastModified": 1508729299547,
+              "sponsored": false,
+              "description": "Laura Tingle Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1508729299547
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/opinion/the-asylum-seeker-story-you-should-have-read-this-week-20190215-h1bb9q",
+      "lastModified": 1550208230597,
+      "onTime": 1550200822000,
+      "sponsored": false,
+      "headline": "The asylum seeker story you should have read this week",
+      "indexHeadline": "The boat story you should have read",
+      "tabletHeadline": "",
+      "theAbstract": "A secretive firm making almost $500 million providing security for refugees at Manus Island was a huge story that got lost in the drama of this week's historic asylum seeker bill, writes Laura Tingle.",
+      "byLine": "Laura Tingle",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1030121446,
+          "categories": [
+            {
+              "name": "Foreign Affairs",
+              "sectionPath": "/news/policy/foreign-affairs",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Jonathan Shapiro",
+              "title": "Senior Reporter",
+              "email": "jonathan.shapiro@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026218112,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/e/y/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507772321281.png",
+                  "lastModified": 1507772321281,
+                  "sponsored": false,
+                  "description": "Jonathan Shapiro AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507772321281
+                }
+              ]
+            },
+            {
+              "name": "Lisa Murray",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026219534,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/2/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508655930668.png",
+                  "lastModified": 1508655930668,
+                  "sponsored": false,
+                  "description": "Lisa Murray AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508655930668
+                }
+              ]
+            },
+            {
+              "name": "Angus Grigg",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026186814,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/t/a/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507695259031.png",
+                  "lastModified": 1507695259031,
+                  "sponsored": false,
+                  "description": "Angus Grigg AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507695259031
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/policy/foreign-affairs/the-secretive-firm-earning-20-million-from-refugees-on-manus-island-20190210-h1b2sm",
+          "lastModified": 1549844901353,
+          "onTime": 1549801800000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "The secretive firm making $5 million a week from Manus Island refugees",
+          "timeStamp": 1549838801296
+        },
+        {
+          "id": 1030130496,
+          "categories": [
+            {
+              "name": "Foreign Affairs",
+              "sectionPath": "/news/policy/foreign-affairs",
+              "orderNum": 2
+            },
+            {
+              "name": "Immigration",
+              "sectionPath": "/news/policy/immigration",
+              "orderNum": 1
+            },
+            {
+              "name": "Politics",
+              "sectionPath": "/news/politics",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Lisa Murray",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026219534,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/2/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508655930668.png",
+                  "lastModified": 1508655930668,
+                  "sponsored": false,
+                  "description": "Lisa Murray AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508655930668
+                }
+              ]
+            },
+            {
+              "name": "Angus Grigg",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026186814,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/t/a/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507695259031.png",
+                  "lastModified": 1507695259031,
+                  "sponsored": false,
+                  "description": "Angus Grigg AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507695259031
+                }
+              ]
+            },
+            {
+              "name": "Jonathan Shapiro",
+              "title": "Senior Reporter",
+              "email": "jonathan.shapiro@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026218112,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/e/y/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507772321281.png",
+                  "lastModified": 1507772321281,
+                  "sponsored": false,
+                  "description": "Jonathan Shapiro AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507772321281
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/policy/foreign-affairs/how-a-soldier-of-fortune-landed-a-423-million-manus-island-contract-20190214-h1b9s0",
+          "lastModified": 1550224830957,
+          "onTime": 1550121091000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "How a soldier of fortune landed a $423 million Manus Island contract",
+          "timeStamp": 1550203442194
+        },
+        {
+          "id": 1030120925,
+          "categories": [
+            {
+              "name": "Foreign Affairs",
+              "sectionPath": "/news/policy/foreign-affairs",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Angus Grigg",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026186814,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/t/a/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507695259031.png",
+                  "lastModified": 1507695259031,
+                  "sponsored": false,
+                  "description": "Angus Grigg AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507695259031
+                }
+              ]
+            },
+            {
+              "name": "Jonathan Shapiro",
+              "title": "Senior Reporter",
+              "email": "jonathan.shapiro@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026218112,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/e/y/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507772321281.png",
+                  "lastModified": 1507772321281,
+                  "sponsored": false,
+                  "description": "Jonathan Shapiro AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507772321281
+                }
+              ]
+            },
+            {
+              "name": "Lisa Murray",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026219534,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/2/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508655930668.png",
+                  "lastModified": 1508655930668,
+                  "sponsored": false,
+                  "description": "Lisa Murray AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508655930668
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/policy/foreign-affairs/cashing-in-on-refugees-duo-make-20-million-a-month-at-manus-island-20190209-h1b2e5",
+          "lastModified": 1549844846785,
+          "onTime": 1549802700000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Cashing in on refugees, duo make $20 million a month at Manus Island ",
+          "timeStamp": 1549802700000
+        },
+        {
+          "id": 1030123745,
+          "categories": [
+            {
+              "name": "Foreign Affairs",
+              "sectionPath": "/news/policy/foreign-affairs",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Lisa Murray",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026219534,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/2/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508655930668.png",
+                  "lastModified": 1508655930668,
+                  "sponsored": false,
+                  "description": "Lisa Murray AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508655930668
+                }
+              ]
+            },
+            {
+              "name": "Angus Grigg",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026186814,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/t/a/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507695259031.png",
+                  "lastModified": 1507695259031,
+                  "sponsored": false,
+                  "description": "Angus Grigg AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507695259031
+                }
+              ]
+            },
+            {
+              "name": "Jonathan Shapiro",
+              "title": "Senior Reporter",
+              "email": "jonathan.shapiro@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026218112,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/e/y/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507772321281.png",
+                  "lastModified": 1507772321281,
+                  "sponsored": false,
+                  "description": "Jonathan Shapiro AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507772321281
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/policy/foreign-affairs/bad-debts-failed-contracts-across-asia-trail-manus-contractor-paladin-20190211-h1b4kh",
+          "lastModified": 1550122968562,
+          "onTime": 1549889100000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Bad debts, failed contracts across Asia trail Manus contractor Paladin  ",
+          "timeStamp": 1549889100000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030126088,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/6/d/k/image.related.afrIndexLead.1536x1010.h1bb9q.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549961645163,
+          "sponsored": false,
+          "description": "peter dutton doctors morrison greens medevac rowe asylum seekers ",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1549961645163
+        },
+        {
+          "id": 1030125408,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/5/u/o/image.related.afrArticleLead.1536x1010.h1bb9q.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549939501861,
+          "sponsored": false,
+          "description": "Minister for Home Affairs Peter Dutton addresses the media during a press conference on sports integrity, at Parliament House in Canberra on  Tuesday 12 February 2019. fedpol Photo: Alex Ellinghausen",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1549939501861
+        },
+        {
+          "id": 1030131926,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/v/q/image.related.afrArticleLead.1536x1010.h1bb9q.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550192441658,
+          "sponsored": false,
+          "description": "**FILE** A March 21, 2014 file image of Asylum seekers staring at media from behind a fence at the Oscar compound in the Manus Island detention centre, Papua New Guinea. Manus Island detainees will receive $70 million in the settlement of a class action against the Australian government, Wednesday, June 14, 2017. (AAP Image/Eoin Blackwell) NO ARCHIVING .",
+          "photographer": "EOIN BLACKWELL",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550192441658
+        },
+        {
+          "id": 1030128423,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/8/6/f/image.related.afrArticleInline.620x0.h1bb9q.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550038561899,
+          "sponsored": false,
+          "description": "The asylum seeker bill holds risks for both major parties.",
+          "photographer": "David Rowe",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550038561899
+        },
+        {
+          "id": 1029550963,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/y/u/l/v/image.related.afrArticleInline.620x0.h1bb9q.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1523864056982,
+          "sponsored": false,
+          "description": "Bill Shorten, as he has learnt to do with other colleagues, has been prepared to give his old rival the running on an issue. Albo is in from the cold.",
+          "photographer": "Glenn Hunt/AAP",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1523864056982
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "The boat story you should have read",
+        "overrideIdentifier": "",
+        "overrideAbstract": "A secretive firm making almost $500 million providing security for refugees at Manus Island was a huge story that got lost in the drama of this week's historic asylum seeker bill, writes Laura Tingle."
+      },
+      "timeStamp": 1550208229129
+    },
+    {
+      "id": 1030130613,
+      "categories": [
+        {
+          "name": "Columnists",
+          "sectionPath": "/opinion/columnists",
+          "orderNum": 1
+        },
+        {
+          "name": "Employment",
+          "sectionPath": "/news/economy/employment",
+          "orderNum": 0
+        },
+        {
+          "name": "Monetary Policy",
+          "sectionPath": "/news/economy/monetary-policy",
+          "orderNum": 2
+        }
+      ],
+      "authors": [
+        {
+          "name": "Phillip Coorey",
+          "title": "Political Editor",
+          "email": "pcoorey@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026221399,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/h/h/z/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507775671037.png",
+              "lastModified": 1507775671037,
+              "sponsored": false,
+              "description": "Phillip Coorey AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1507775671037
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/economy/employment/why-the-morrison-government-is-feeling-okay-after-a-dreadful-week-20190214-h1b9v9",
+      "lastModified": 1550222218701,
+      "onTime": 1550122677000,
+      "sponsored": false,
+      "headline": "Why the Morrison government is feeling okay after a dreadful week ",
+      "indexHeadline": "Why the government is feeling okay",
+      "tabletHeadline": "",
+      "theAbstract": "Everyone in the government believes they can't lose by calling Labor soft on border control.",
+      "byLine": "Phillip Coorey",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1030132437,
+          "categories": [
+            {
+              "name": "News",
+              "sectionPath": "/news",
+              "orderNum": 1
+            },
+            {
+              "name": "Politics",
+              "sectionPath": "/news/politics",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Phillip Coorey",
+              "title": "Political Editor",
+              "email": "pcoorey@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026221399,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/h/h/z/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507775671037.png",
+                  "lastModified": 1507775671037,
+                  "sponsored": false,
+                  "description": "Phillip Coorey AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507775671037
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/scott-morrison-risks-new-parliament-ambush-on-monday-20190215-h1bb9x",
+          "lastModified": 1550206796875,
+          "onTime": 1550201023000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Scott Morrison risks new Parliament ambush on Monday",
+          "timeStamp": 1550206796629
+        },
+        {
+          "id": 1030126001,
+          "categories": [
+            {
+              "name": "News",
+              "sectionPath": "/news",
+              "orderNum": 1
+            },
+            {
+              "name": "Politics",
+              "sectionPath": "/news/politics",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Phillip Coorey",
+              "title": "Political Editor",
+              "email": "pcoorey@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026221399,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/h/h/z/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507775671037.png",
+                  "lastModified": 1507775671037,
+                  "sponsored": false,
+                  "description": "Phillip Coorey AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507775671037
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/scott-morrison-suffers-historic-defeat-as-asylum-seeker-bill-passes-20190212-h1b6b5",
+          "lastModified": 1549961698603,
+          "onTime": 1549920092000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Scott Morrison suffers historic defeat as asylum seeker bill passes",
+          "timeStamp": 1549959522257
+        },
+        {
+          "id": 1030126355,
+          "categories": [
+            {
+              "name": "Politics",
+              "sectionPath": "/news/politics",
+              "orderNum": 0
+            },
+            {
+              "name": "News",
+              "sectionPath": "/news",
+              "orderNum": 1
+            }
+          ],
+          "authors": [
+            {
+              "name": "Phillip Coorey",
+              "title": "Political Editor",
+              "email": "pcoorey@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026221399,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/h/h/z/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507775671037.png",
+                  "lastModified": 1507775671037,
+                  "sponsored": false,
+                  "description": "Phillip Coorey AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507775671037
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/scott-morrison-suffers-historic-defeat-so-who-won-20190212-h1b6kz",
+          "lastModified": 1549962585961,
+          "onTime": 1549962000000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Scott Morrison suffers historic defeat. So who won?",
+          "timeStamp": 1549962585270
+        },
+        {
+          "id": 1030130451,
+          "categories": [
+            {
+              "name": "Politics",
+              "sectionPath": "/news/politics",
+              "orderNum": 0
+            },
+            {
+              "name": "News",
+              "sectionPath": "/news",
+              "orderNum": 1
+            }
+          ],
+          "authors": [
+            {
+              "name": "Tom McIlroy",
+              "title": "Political Reporter",
+              "email": "thomas.mcilroy@smh.com.au",
+              "relatedAssets": [],
+              "relatedImages": []
+            }
+          ],
+          "url": "http://www.afr.com/news/no-love-lost-on-valentines-day-in-federal-parliament-20190214-h1b9qr",
+          "lastModified": 1550127303780,
+          "onTime": 1550120508000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "No love lost on Valentine's Day in federal Parliament",
+          "timeStamp": 1550126913152
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030130883,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/2/r/image.related.afrArticleInline.620x0.h1b9v9.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550126572430,
+          "sponsored": false,
+          "description": "On Thursday, the government shelved its big stick legislation to forcibly divest badly behaving energy companies because that, too, was going to be amended in the lower house, inflicting a second historic loss in a week.",
+          "photographer": "David Rowe",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550126572430
+        },
+        {
+          "id": 1029994689,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/8/c/z/l/image.related.afrArticleInline.620x0.h1b9v9.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1543201953733,
+          "sponsored": false,
+          "description": "Opposition Leader Bill Shorten and Deputy Opposition Leader Tanya Plibersek  with crossbench MPs Kerryn Phelps, Cathy McGowan, Adam Bandt and Rebekha Sharkie.",
+          "photographer": "Alex Ellinghausen / Fairfax Media",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1543201953733
+        },
+        {
+          "id": 1030130218,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/9/k/a/image.related.afrArticleInline.620x0.h1b9v9.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550117478346,
+          "sponsored": false,
+          "description": " Bill Shorten during Question Time  on Thursday.",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550117478346
+        },
+        {
+          "id": 1030130450,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/9/q/q/image.related.afrArticleLead.1536x1010.h1b9v9.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550120510051,
+          "sponsored": false,
+          "description": "Scott  Morrison kept Question Time going on Thursday  to avoid being beaten on a motion calling for a royal commission into the disabled.",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550120510051
+        },
+        {
+          "id": 1030130454,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/9/q/u/image.related.afrArticleLead.1536x1010.h1b9v9.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550120534699,
+          "sponsored": false,
+          "description": "Scott  Morrison kept Question Time going on Thursday  to avoid being beaten on a motion calling for a royal commission into the disabled.",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550120534699
+        },
+        {
+          "id": 1030130454,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/9/q/u/image.related.afrIndexLead.1536x1010.h1b9v9.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550120534699,
+          "sponsored": false,
+          "description": "Scott  Morrison kept Question Time going on Thursday  to avoid being beaten on a motion calling for a royal commission into the disabled.",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1550120534699
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Why the government is feeling okay",
+        "overrideIdentifier": "",
+        "overrideAbstract": "Everyone in the government believes they can't lose by calling Labor soft on border control."
+      },
+      "timeStamp": 1550208045847
+    },
+    {
+      "id": 1030132593,
+      "categories": [
+        {
+          "name": "Chanticleer",
+          "sectionPath": "/opinion/columnists/chanticleer",
+          "orderNum": 0
+        },
+        {
+          "name": "Chanticleer",
+          "sectionPath": "/brand/chanticleer",
+          "orderNum": 2
+        },
+        {
+          "name": "Telecommunications",
+          "sectionPath": "/business/telecommunications",
+          "orderNum": 1
+        }
+      ],
+      "authors": [
+        {
+          "name": "Chanticleer",
+          "title": "Column",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030117386,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/a/z/n/u/image.imgtype.afrWoodcutAuthorImage.140x140.png/1549519435387.jpg",
+              "lastModified": 1549519435387,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1549519435387
+            },
+            {
+              "id": 67385547,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/4/4/b/0/r/image.imgtype.afrWoodcutAuthorImage.140x140.png/1426357827234.png",
+              "lastModified": 1426357827234,
+              "sponsored": false,
+              "description": " ",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1426357827234
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/opinion/columnists/chanticleer/battle-of-the-goliaths-telstra-v-nbn-20190215-h1bbe9",
+      "lastModified": 1550232000000,
+      "onTime": 1550232000000,
+      "sponsored": false,
+      "headline": "Battle of the goliaths: Telstra v NBN ",
+      "indexHeadline": "Telstra v NBN in battle of the goliaths ",
+      "tabletHeadline": "",
+      "theAbstract": "It is the battle of the telecommunications goliaths. In one corner is Telstra, valued at $54 billion. In the other, NBN Co, the government-owned company building a national broadband network for $51 billion.",
+      "byLine": "Tony Boyd",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030133140,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/b/t/g/image.related.afrArticleLead.1536x1010.h1bbe9.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550216354801,
+          "sponsored": false,
+          "description": "Stephen Rue is unlikely to have been the subject of such a concerted campaign as the one Telstra is running against NBN.",
+          "photographer": "David Rowe",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550216354801
+        },
+        {
+          "id": 1030133140,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/b/t/g/image.related.afrIndexLead.1536x1010.h1bbe9.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550216354801,
+          "sponsored": false,
+          "description": "Stephen Rue is unlikely to have been the subject of such a concerted campaign as the one Telstra is running against NBN.",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1550216354801
+        },
+        {
+          "id": 1030132564,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/b/d/g/image.related.afrArticleInline.620x0.h1bbe9.13zzqx.png/1550226627330.png",
+          "lastModified": 1550203404952,
+          "sponsored": false,
+          "description": " ",
+          "photographer": "",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550203404952
+        }
+      ],
+      "companies": [
+        {
+          "id": 997018116,
+          "companyCode": "TLS",
+          "companyName": "TELSTRA CORPORATION LIMITED.",
+          "abbreviatedName": "Telstra Corporation.",
+          "exchange": "ASX",
+          "companyNumber": "51775556"
+        }
+      ],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Telstra v NBN in battle of the goliaths ",
+        "overrideIdentifier": "",
+        "overrideAbstract": "It is the battle of the telecommunications goliaths. In one corner is Telstra, valued at $54 billion. In the other, NBN Co, the government-owned company building a national broadband network for $51 billion."
+      },
+      "timeStamp": 1550232000000
+    },
+    {
+      "id": 1030130496,
+      "categories": [
+        {
+          "name": "Foreign Affairs",
+          "sectionPath": "/news/policy/foreign-affairs",
+          "orderNum": 2
+        },
+        {
+          "name": "Immigration",
+          "sectionPath": "/news/policy/immigration",
+          "orderNum": 1
+        },
+        {
+          "name": "Politics",
+          "sectionPath": "/news/politics",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jonathan Shapiro",
+          "title": "Senior Reporter",
+          "email": "jonathan.shapiro@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026218112,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/e/y/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507772321281.png",
+              "lastModified": 1507772321281,
+              "sponsored": false,
+              "description": "Jonathan Shapiro AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1507772321281
+            }
+          ]
+        },
+        {
+          "name": "Lisa Murray",
+          "title": "China Correspondent",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026219534,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/2/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508655930668.png",
+              "lastModified": 1508655930668,
+              "sponsored": false,
+              "description": "Lisa Murray AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1508655930668
+            }
+          ]
+        },
+        {
+          "name": "Angus Grigg",
+          "title": "China Correspondent",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026186814,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/t/a/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507695259031.png",
+              "lastModified": 1507695259031,
+              "sponsored": false,
+              "description": "Angus Grigg AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1507695259031
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/policy/foreign-affairs/how-a-soldier-of-fortune-landed-a-423-million-manus-island-contract-20190214-h1b9s0",
+      "lastModified": 1550224830957,
+      "onTime": 1550121091000,
+      "sponsored": false,
+      "headline": "How a soldier of fortune landed a $423 million Manus Island contract",
+      "indexHeadline": "How a soldier of fortune won big from refugees",
+      "tabletHeadline": "",
+      "theAbstract": "\"He was very driven, always looking for an angle and I suspect had bigger plans for himself.\"",
+      "byLine": "Angus Grigg, Lisa Murray and Jonathan Shapiro",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1030121446,
+          "categories": [
+            {
+              "name": "Foreign Affairs",
+              "sectionPath": "/news/policy/foreign-affairs",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Lisa Murray",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026219534,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/2/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508655930668.png",
+                  "lastModified": 1508655930668,
+                  "sponsored": false,
+                  "description": "Lisa Murray AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508655930668
+                }
+              ]
+            },
+            {
+              "name": "Jonathan Shapiro",
+              "title": "Senior Reporter",
+              "email": "jonathan.shapiro@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026218112,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/e/y/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507772321281.png",
+                  "lastModified": 1507772321281,
+                  "sponsored": false,
+                  "description": "Jonathan Shapiro AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507772321281
+                }
+              ]
+            },
+            {
+              "name": "Angus Grigg",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026186814,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/t/a/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507695259031.png",
+                  "lastModified": 1507695259031,
+                  "sponsored": false,
+                  "description": "Angus Grigg AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507695259031
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/policy/foreign-affairs/the-secretive-firm-earning-20-million-from-refugees-on-manus-island-20190210-h1b2sm",
+          "lastModified": 1549844901353,
+          "onTime": 1549801800000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "The secretive firm making $5 million a week from Manus Island refugees",
+          "timeStamp": 1549838801296
+        },
+        {
+          "id": 1030123745,
+          "categories": [
+            {
+              "name": "Foreign Affairs",
+              "sectionPath": "/news/policy/foreign-affairs",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Angus Grigg",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026186814,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/t/a/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507695259031.png",
+                  "lastModified": 1507695259031,
+                  "sponsored": false,
+                  "description": "Angus Grigg AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507695259031
+                }
+              ]
+            },
+            {
+              "name": "Lisa Murray",
+              "title": "China Correspondent",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026219534,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/2/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508655930668.png",
+                  "lastModified": 1508655930668,
+                  "sponsored": false,
+                  "description": "Lisa Murray AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508655930668
+                }
+              ]
+            },
+            {
+              "name": "Jonathan Shapiro",
+              "title": "Senior Reporter",
+              "email": "jonathan.shapiro@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026218112,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/e/y/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507772321281.png",
+                  "lastModified": 1507772321281,
+                  "sponsored": false,
+                  "description": "Jonathan Shapiro AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507772321281
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/policy/foreign-affairs/bad-debts-failed-contracts-across-asia-trail-manus-contractor-paladin-20190211-h1b4kh",
+          "lastModified": 1550122968562,
+          "onTime": 1549889100000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Bad debts, failed contracts across Asia trail Manus contractor Paladin  ",
+          "timeStamp": 1549889100000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030121111,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/2/j/b/image.related.afrArticleLead.1536x1010.h1b9s0.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549761493212,
+          "sponsored": false,
+          "description": "  Craig Thrupp  went to East Timor as a 25-year-old,  looking to get into the security business. ",
+          "photographer": "David Edward Everitt",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1549761493212
+        },
+        {
+          "id": 1030121111,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/2/j/b/image.related.afrIndexLead.1536x1010.h1b9s0.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549761493212,
+          "sponsored": false,
+          "description": "  Craig Thrupp  went to East Timor as a 25-year-old,  looking to get into the security business. ",
+          "photographer": "David Edward Everitt",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1549761493212
+        },
+        {
+          "id": 1030122714,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/3/r/u/image.related.afrArticleInline.620x0.h1b9s0.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549871728129,
+          "sponsored": false,
+          "description": "Craig Thrupp: \"He was very driven, always looking for an angle and I suspect had bigger plans for himself.\"",
+          "photographer": "",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549871728129
+        },
+        {
+          "id": 1030121235,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/2/m/r/image.related.afrArticleInline.620x0.h1b9s0.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549763463569,
+          "sponsored": false,
+          "description": " The East Lorengau Refugee Transit Centre on Manus Island. Paladin Group had been a small subcontractor on Manus, but  became the recipient of contracts worth $423 million over 22 months.",
+          "photographer": "Supplied",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549763463569
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "How a soldier of fortune won big from refugees",
+        "overrideIdentifier": "",
+        "overrideAbstract": "\"He was very driven, always looking for an angle and I suspect had bigger plans for himself.\""
+      },
+      "timeStamp": 1550203442194
+    },
+    {
+      "id": 1030129778,
+      "categories": [
+        {
+          "name": "News",
+          "sectionPath": "/news",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Aaron Patrick",
+          "title": "Deputy Editor",
+          "email": "apatrick@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026186281,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/q/e/h/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507694784773.png",
+              "lastModified": 1507694784773,
+              "sponsored": false,
+              "description": "Aaron Patrick AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1507694784773
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/brian-preston-the-activist-judge-shaking-the-climate-change-world-20190214-h1b982",
+      "lastModified": 1550198739086,
+      "onTime": 1550145600000,
+      "sponsored": false,
+      "headline": "Brian Preston: The activist judge shaking the climate change world",
+      "indexHeadline": "An activist judge shakes the climate change world",
+      "tabletHeadline": "",
+      "theAbstract": "Before Sydney Judge Brian Preston vetoed a coal mine to fight global warming, he urged lawyers to use the law to change climate change policy.",
+      "byLine": "Aaron Patrick",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030131578,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/m/2/image.related.afrArticleInline.620x0.h1b982.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550185861508,
+          "sponsored": false,
+          "description": "Preston said the open cut coal mine near Gloucester would be an eyesore and hurt eco-tourism.",
+          "photographer": "Rob Homer",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550185861304
+        },
+        {
+          "id": 1030131743,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/q/n/image.related.afrArticleInline.620x0.h1b982.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550189196595,
+          "sponsored": false,
+          "description": "The area around Gloucester in NSW's Hunter Valley. ",
+          "photographer": "Taras Vyshnya / Alamy Stock Photo",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550189196595
+        },
+        {
+          "id": 1030131740,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/q/k/image.related.afrArticleInline.620x0.h1b982.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550189669613,
+          "sponsored": false,
+          "description": "Brian Preston (second from right) with Sue Higginson, Jeff Smith and Jessica Wood at the opening of the Northern Rivers Office Environmental Defenders Office in 2006.",
+          "photographer": "",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550189669613
+        },
+        {
+          "id": 1030131739,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/q/j/image.related.afrArticleLead.1536x1010.h1b982.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550189353691,
+          "sponsored": false,
+          "description": " Justice Brian Preston is one of the intellectual pioneers of a global movement that uses courts to do what activists feel governments won't: stop oil and gas companies from driving up global temperatures by releasing greenhouse gases.",
+          "photographer": "",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550189353691
+        },
+        {
+          "id": 1030131739,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/q/j/image.related.afrIndexLead.1536x1010.h1b982.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550189353691,
+          "sponsored": false,
+          "description": " Justice Brian Preston is one of the intellectual pioneers of a global movement that uses courts to do what activists feel governments won't: stop oil and gas companies from driving up global temperatures by releasing greenhouse gases.",
+          "photographer": "",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1550189353691
+        },
+        {
+          "id": 1030118358,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/0/e/u/image.related.afrArticleLead.1536x1010.h1b982.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549876202034,
+          "sponsored": false,
+          "description": "Gloucester residents celebrate after Sydney judge Brian Preston blocked a coal mine near their NSW town.",
+          "photographer": "Janie Barrett",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1549876202034
+        },
+        {
+          "id": 1030118358,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/0/e/u/image.related.afrArticleInline.620x0.h1b982.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549876202034,
+          "sponsored": false,
+          "description": "Gloucester residents celebrate after Sydney judge Brian Preston blocked a coal mine near their NSW town.",
+          "photographer": "Janie Barrett",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549876202034
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "An activist judge shakes the climate change world",
+        "overrideIdentifier": "",
+        "overrideAbstract": "Before Sydney Judge Brian Preston vetoed a coal mine to fight global warming, he urged lawyers to use the law to change climate change policy."
+      },
+      "timeStamp": 1550197153536
+    },
+    {
+      "id": 1030107738,
+      "categories": [
+        {
+          "name": "Health",
+          "sectionPath": "/lifestyle/health",
+          "orderNum": 1
+        },
+        {
+          "name": "Lifestyle",
+          "sectionPath": "/lifestyle",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jill Margo",
+          "title": "Men's Health Editor",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026215955,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/d/a/r/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507770182256.png",
+              "lastModified": 1507770182256,
+              "sponsored": false,
+              "description": "Jill Margo AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1507770182256
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/lifestyle/carl-honor-wants-people-to-feel-better-about-getting-old-20190202-h1as7u",
+      "lastModified": 1550235821694,
+      "onTime": 1550149200000,
+      "sponsored": false,
+      "headline": "Author Carl Honoré: stop whingeing about ageing, start winning at getting older",
+      "indexHeadline": "Why you should stop whingeing about ageing",
+      "tabletHeadline": "",
+      "theAbstract": "Carl Honoré, bestselling author and the godfather of the slow movement, sits down to Lunch with the AFR to explain why we should think of getting older as an advantage.",
+      "byLine": "Jill Margo",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030122691,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/3/r/7/image.related.afrArticleLead.1536x1010.h1as7u.13zzqx.png/1550235821694.jpg",
+          "lastModified": 1550183238473,
+          "sponsored": false,
+          "description": "Carl Honoré arguing against hiding one's  age, over lunch at Rockpool Bar and Grill in Sydney. ",
+          "photographer": "Peter Braig",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550183238473
+        },
+        {
+          "id": 1030122691,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/3/r/7/image.related.afrIndexLead.1536x1010.h1as7u.13zzqx.png/1550235821694.jpg",
+          "lastModified": 1550183238473,
+          "sponsored": false,
+          "description": "Carl Honoré arguing against hiding one's  age, over lunch at Rockpool Bar and Grill in Sydney. ",
+          "photographer": "Peter Braig",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1550183238473
+        },
+        {
+          "id": 1030122623,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/3/p/b/image.related.afrArticleInline.620x0.h1as7u.13zzqx.png/1550235821694.jpg",
+          "lastModified": 1549847269124,
+          "sponsored": false,
+          "description": "Honoré hosted ABC TV show Frantic Family Rescue in which he advised three Australian families on how to slow down their hectic lives.",
+          "photographer": " ",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549847269124
+        },
+        {
+          "id": 1030122617,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/3/p/5/image.related.afrArticleInline.620x0.h1as7u.13zzqx.png/1550235821694.jpg",
+          "lastModified": 1550191598944,
+          "sponsored": false,
+          "description": "Honoré has an unusual tip for people when they think they are in the last third of their life - it's to do some reverse engineering.",
+          "photographer": "Peter Braig",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550191598944
+        },
+        {
+          "id": 1030122615,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/3/p/3/image.related.afrArticleInline.620x0.h1as7u.13zzqx.png/1550235821694.jpg",
+          "lastModified": 1549847202112,
+          "sponsored": false,
+          "description": "In his early 50s, Honoré is certainly not short on zip and seems curious about everything around him.",
+          "photographer": "Peter Braig",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549847202112
+        },
+        {
+          "id": 1030122614,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/3/p/2/image.related.afrArticleInline.620x0.h1as7u.13zzqx.png/1550235821694.jpg",
+          "lastModified": 1549847198083,
+          "sponsored": false,
+          "description": "Honoré suggests rather than striving to look young, one should strive to look good.",
+          "photographer": "Peter Braig",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549847198083
+        },
+        {
+          "id": 1030088860,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/a/d/n/g/image.related.afrArticleInline.620x0.h1as7u.13zzqx.png/1550235821694.jpg",
+          "lastModified": 1548205767180,
+          "sponsored": false,
+          "description": "Britain's Prince William in conversation with Sir David Attenborough, who in his 90s  is still making documentaries.",
+          "photographer": "Gian Ehrenzeller",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1548205767180
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Why you should stop whingeing about ageing",
+        "overrideIdentifier": "",
+        "overrideAbstract": "Carl Honoré, bestselling author and the godfather of the slow movement, sits down to Lunch with the AFR to explain why we should think of getting older as an advantage."
+      },
+      "timeStamp": 1550149200000
+    },
+    {
+      "id": 1030126307,
+      "categories": [
+        {
+          "name": "Budgeting",
+          "sectionPath": "/personal-finance/budgeting",
+          "orderNum": 0
+        },
+        {
+          "name": "Personal Finance",
+          "sectionPath": "/personal-finance",
+          "orderNum": 1
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/personal-finance/budgeting/money-matters-that-can-make-or-break-your-relationship-20190212-h1b6jn",
+      "lastModified": 1550191995706,
+      "onTime": 1550191500000,
+      "sponsored": false,
+      "headline": "Money matters that can make or break your relationship",
+      "indexHeadline": "Money matters that can make or break relationships",
+      "tabletHeadline": "",
+      "theAbstract": "Most relationships have their deal breakers. For women, handing over financial control to a partner who \"might\" know more about money should be one of them.",
+      "byLine": "Bianca Hartge-Hazelman",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1030062477,
+          "categories": [
+            {
+              "name": "Personal Finance",
+              "sectionPath": "/personal-finance",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Misa Han",
+              "title": "Reporter",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 998471453,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/i/g/p/i/5/image.imgtype.afrAuthorAvatar.140x140.png/1437396900123.jpg",
+                  "lastModified": 1437396900123,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrAuthorAvatar",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1437396900123
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/personal-finance/lessons-from-bezos-divorce-for-australian-couples-20190107-h19tal",
+          "lastModified": 1550232000000,
+          "onTime": 1550232000000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "What Australian couples can learn from Amazon's Jeff Bezos divorce",
+          "timeStamp": 1550232000000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1016113453,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/s/y/u/5/p/image.related.afrArticleLead.1536x1010.h1b6jn.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1480288181537,
+          "sponsored": false,
+          "description": "Don't unknowingly get yourself into debt, sign any guarantees or sign security documents without knowing what it means.",
+          "photographer": "",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1480288181537
+        },
+        {
+          "id": 1016113453,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/s/y/u/5/p/image.related.afrIndexLead.1536x1010.h1b6jn.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1480288181537,
+          "sponsored": false,
+          "description": "Don't unknowingly get yourself into debt, sign any guarantees or sign security documents without knowing what it means.",
+          "photographer": "",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1480288181537
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR Contributor"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Money matters that can make or break relationships",
+        "overrideIdentifier": "",
+        "overrideAbstract": "Most relationships have their deal breakers. For women, handing over financial control to a partner who \"might\" know more about money should be one of them."
+      },
+      "timeStamp": 1550191500000
+    },
+    {
+      "id": 1030130125,
+      "categories": [
+        {
+          "name": "Health",
+          "sectionPath": "/lifestyle/health",
+          "orderNum": 2
+        },
+        {
+          "name": "Leadership",
+          "sectionPath": "/leadership",
+          "orderNum": 1
+        },
+        {
+          "name": "Aged Care",
+          "sectionPath": "/business/health/aged-care",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jill Margo",
+          "title": "Men's Health Editor",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026215955,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/d/a/r/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507770182256.png",
+              "lastModified": 1507770182256,
+              "sponsored": false,
+              "description": "Jill Margo AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1507770182256
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/leadership/ageing-poorly-perhaps-you-are-rusting-from-too-much-iron-in-your-system-20190214-h1b9hp",
+      "lastModified": 1550232000000,
+      "onTime": 1550232000000,
+      "sponsored": false,
+      "headline": "Ageing poorly? Perhaps you are 'rusting' from too much iron in your system",
+      "indexHeadline": "When iron goes rogue in the body",
+      "tabletHeadline": "",
+      "theAbstract": "Researchers have found that many people who are ageing poorly are \"rusting\" from too much iron in their system.",
+      "byLine": "Jill Margo",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030131371,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/g/b/image.related.afrArticleLead.1536x1010.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1550179807868,
+          "sponsored": false,
+          "description": "Researchers have found that many people who are ageing poorly are \"rusting\" from too much iron in their system.",
+          "photographer": "Shutterstock",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550179807868
+        },
+        {
+          "id": 1030044561,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/9/f/g/x/image.related.afrArticleInline.620x0.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1545536756555,
+          "sponsored": false,
+          "description": "Treatment is simple. It requires people to be bled so they shed some iron-rich blood and clear their iron overload.",
+          "photographer": "Red Cross",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1545536756555
+        },
+        {
+          "id": 1030130402,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/9/p/e/image.related.afrArticleInline.620x0.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1550119853599,
+          "sponsored": false,
+          "description": "Professor David Melzer says the early signs of haemochromatosis are difficult for doctors to spot and sometimes misdiagnosed.",
+          "photographer": " Supplied",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550119853599
+        },
+        {
+          "id": 1030130403,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/9/p/f/image.related.afrArticleInline.620x0.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1550119856073,
+          "sponsored": false,
+          "description": "Emeritus Professor Lawrie Powell's real concern is for younger people, in their 40s and 50s, who have not been diagnosed and then develop complications including cirrhosis of the liver and liver cancer.",
+          "photographer": "Supplied",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550119856073
+        },
+        {
+          "id": 1014761830,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/s/5/v/8/m/image.related.afrArticleInline.620x0.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1550185025668,
+          "sponsored": false,
+          "description": "A standard blood test does not include anything to raise the suspicion a person has iron overload disease. ",
+          "photographer": "aurora.daniels@canberratimes.com.au",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550185025668
+        },
+        {
+          "id": 62854722,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/1/f/7/0/i/image.related.afrIndexLead.1536x1010.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1476965463438,
+          "sponsored": false,
+          "description": "One way to age successfully is to maintain normal iron level  and reduce the likelihood of rusting up.",
+          "photographer": " iStock",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1476965463438
+        },
+        {
+          "id": 999446178,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/j/1/l/l/u/image.related.afrArticleInline.620x0.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1549432697381,
+          "sponsored": false,
+          "description": "If you know this hereditary disease is in your family, you can be alert for it. But ironically, because it is largely undiagnosed, that can be hard to know.",
+          "photographer": " Virginia Star",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549432697381
+        },
+        {
+          "id": 1005888020,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/m/v/o/5/w/image.related.afrArticleInline.620x0.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1550125388619,
+          "sponsored": false,
+          "description": "Many people have one copy of the faulty gene but the disease usually manifests only if a person has two copies.",
+          "photographer": " Supplied",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550125388619
+        },
+        {
+          "id": 1014641709,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/s/3/a/j/x/image.related.afrArticleInline.620x0.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1476582217031,
+          "sponsored": false,
+          "description": " Although more common in men, women can be severely affected by haemochromatosis too.",
+          "photographer": "Supplied",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1476582217031
+        },
+        {
+          "id": 1028629432,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/f/3/j/s/image.related.afrArticleInline.620x0.h1b9hp.13zzqx.png/1550230479247.jpg",
+          "lastModified": 1515385255092,
+          "sponsored": false,
+          "description": "Menstruation affords women some protection against iron overload, but this ends with menopause.",
+          "photographer": "Evgeny Atamanenko",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1515385255092
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "When iron goes rogue in the body",
+        "overrideIdentifier": "",
+        "overrideAbstract": "Researchers have found that many people who are ageing poorly are \"rusting\" from too much iron in their system."
+      },
+      "timeStamp": 1550232000000
+    },
+    {
+      "id": 1030131471,
+      "categories": [
+        {
+          "name": "Personal Finance",
+          "sectionPath": "/personal-finance",
+          "orderNum": 3
+        },
+        {
+          "name": "Banking & Finance",
+          "sectionPath": "/business/banking-and-finance",
+          "orderNum": 2
+        },
+        {
+          "name": "Fixed Income",
+          "sectionPath": "/personal-finance/fixed-income",
+          "orderNum": 1
+        },
+        {
+          "name": "Superannuation & SMSFs",
+          "sectionPath": "/personal-finance/superannuation-and-smsfs",
+          "orderNum": 0
+        },
+        {
+          "name": "Portfolio Management",
+          "sectionPath": "/personal-finance/portfolio-management",
+          "orderNum": 4
+        }
+      ],
+      "authors": [
+        {
+          "name": "Christopher Joye",
+          "title": "Columnist",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026188648,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/s/8/8/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507696913236.png",
+              "lastModified": 1507696913236,
+              "sponsored": false,
+              "description": "Christopher Joye AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1507696913236
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/personal-finance/fixed-income/why-unisuper-bought-nab-hybrid-20190214-h1baj3",
+      "lastModified": 1550194298404,
+      "onTime": 1550190600000,
+      "sponsored": false,
+      "headline": "Why UniSuper bought NAB hybrid",
+      "indexHeadline": "Why UniSuper bought NAB hybrid",
+      "tabletHeadline": "",
+      "theAbstract": "How a 500-pound institutional gorilla helped retail investors lock in a 6 per cent yield, writes Christopher Joye. ",
+      "byLine": "Christopher Joye",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1029525185,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/y/a/p/t/image.related.afrArticleInline.620x0.h1baj3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1525828712337,
+          "sponsored": false,
+          "description": "The local regulator, APRA, is among the most highly regarded globally for its rational decision-making and multi-decade track record of avoiding catastrophic blow ups.",
+          "photographer": "Louie Douvis",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1525828712337
+        },
+        {
+          "id": 1030091426,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/a/f/m/q/image.related.afrArticleInline.620x0.h1baj3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549263194393,
+          "sponsored": false,
+          "description": "As part of the new NABPF issue, NAB is prudently seeking to place $750 million of \"Common Equity Tier 1\" (CET1) capital to institutional investors, which will boost its pro-forma CET1 ratio to above APRA's \"unquestionably strong\" 10.5 per cent target according to JP Morgan.",
+          "photographer": "Supplied",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1548297771727
+        },
+        {
+          "id": 1029553268,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/y/w/d/w/image.related.wideLandscape.1500x844.h1baj3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1523952926503,
+          "sponsored": false,
+          "description": "Investors should probably be thanking UniSuper's John Pearce for helping secure NABPF's yield.",
+          "photographer": "Daniel Munoz",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1523952926503
+        },
+        {
+          "id": 1029553268,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/y/w/d/w/image.related.thumbnail.375x250.h1baj3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1523952926503,
+          "sponsored": false,
+          "description": "Investors should probably be thanking UniSuper's John Pearce for helping secure NABPF's yield.",
+          "photographer": "Daniel Munoz",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1523952926503
+        },
+        {
+          "id": 1029553268,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/y/w/d/w/image.related.afrArticleLead.1536x1010.h1baj3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1523952926503,
+          "sponsored": false,
+          "description": "Investors should probably be thanking UniSuper's John Pearce for helping secure NABPF's yield.",
+          "photographer": "Daniel Munoz",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1523952926503
+        },
+        {
+          "id": 1029553268,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/y/w/d/w/image.related.afrIndexLead.1536x1010.h1baj3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1523952926503,
+          "sponsored": false,
+          "description": "Investors should probably be thanking UniSuper's John Pearce for helping secure NABPF's yield.",
+          "photographer": "Daniel Munoz",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1523952926503
+        },
+        {
+          "id": 1029553268,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/y/w/d/w/image.related.landscape.1174x783.h1baj3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1523952926503,
+          "sponsored": false,
+          "description": "Investors should probably be thanking UniSuper's John Pearce for helping secure NABPF's yield.",
+          "photographer": "Daniel Munoz",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1523952926503
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR Contributor"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Why UniSuper bought NAB hybrid",
+        "overrideIdentifier": "",
+        "overrideAbstract": "How a 500-pound institutional gorilla helped retail investors lock in a 6 per cent yield, writes Christopher Joye. "
+      },
+      "timeStamp": 1550193746828
+    },
+    {
+      "id": 1030124724,
+      "categories": [
+        {
+          "name": "Personal Finance",
+          "sectionPath": "/personal-finance",
+          "orderNum": 2
+        },
+        {
+          "name": "Real Estate",
+          "sectionPath": "/real-estate",
+          "orderNum": 0
+        },
+        {
+          "name": "Private Banking",
+          "sectionPath": "/brand/special_reports/private_banking",
+          "orderNum": 1
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/real-estate/big-is-beautiful-for-retiree-upsizers-who-want-more-space-for-lifestyle-20190211-h1b5bo",
+      "lastModified": 1550206903828,
+      "onTime": 1550149200000,
+      "sponsored": false,
+      "headline": "Big is beautiful for retiree 'upsizers' who want more space for lifestyle",
+      "indexHeadline": "Big is beautiful for retiree 'upsizers'  ",
+      "tabletHeadline": "",
+      "theAbstract": "Forget downsizing. Baby Boomers who've got the cash are either renovating existing homes or upsizing to larger ones for more comfort and to accommodate grandchildren.",
+      "byLine": "Duncan Hughes",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030131925,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/v/p/image.related.afrArticleLead.1536x1010.h1b5bo.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550192440168,
+          "sponsored": false,
+          "description": "Baby Boomers who've got the cash are either renovating existing homes or upsizing to larger ones for more comfort and to accommodate grandchildren.",
+          "photographer": "Kzenon / Alamy Stock Photo",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550192440168
+        },
+        {
+          "id": 1030131925,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/v/p/image.related.afrIndexLead.1536x1010.h1b5bo.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550192440168,
+          "sponsored": false,
+          "description": "Baby Boomers who've got the cash are either renovating existing homes or upsizing to larger ones for more comfort and to accommodate grandchildren.",
+          "photographer": "Kzenon / Alamy Stock Photo",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1550192440168
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Big is beautiful for retiree 'upsizers'  ",
+        "overrideIdentifier": "",
+        "overrideAbstract": "Forget downsizing. Baby Boomers who've got the cash are either renovating existing homes or upsizing to larger ones for more comfort and to accommodate grandchildren."
+      },
+      "timeStamp": 1550206903384
+    },
+    {
+      "id": 1030112902,
+      "categories": [
+        {
+          "name": "Music",
+          "sectionPath": "/lifestyle/arts-and-entertainment/music",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/lifestyle/arts-and-entertainment/music/julie-burchill-belatedly-admits-bryan-ferry-didnt-deserve-her-ire-20190205-h1aw7a",
+      "lastModified": 1550216166958,
+      "onTime": 1550145600000,
+      "sponsored": false,
+      "headline": "Julie Burchill belatedly admits Bryan Ferry didn't deserve her ire",
+      "indexHeadline": "Dear Bryan, I didn't mean to hurt you",
+      "tabletHeadline": "",
+      "theAbstract": "When she joined the music press, the author knew she'd have to turn on the people she loved.",
+      "byLine": "Julie Burchill",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1029961645,
+          "categories": [
+            {
+              "name": "Music",
+              "sectionPath": "/lifestyle/arts-and-entertainment/music",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Michael Bailey",
+              "title": "Entrepreneur Editor",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026220689,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/y/9/image.imgtype.afrWoodcutAuthorImage.140x140.png/1507774935884.png",
+                  "lastModified": 1507774935884,
+                  "sponsored": false,
+                  "description": "Michael Bailey AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1507774935884
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/lifestyle/arts-and-entertainment/music/bryan-ferry-talks-roxy-music-on-the-eve-of-his-2019-australian-tour-20181108-h17nhp",
+          "lastModified": 1542362400000,
+          "onTime": 1542362400000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Bryan Ferry talks Roxy Music on the eve of his 2019 Australian tour",
+          "timeStamp": 1542362400000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030054912,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/9/n/g/g/image.related.afrArticleLead.1536x1010.h1aw7a.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1546463305646,
+          "sponsored": false,
+          "description": "I adored Bryan Ferry from the first time I saw Roxy Music perform their first single Virginia Plain on Top Of The Pops in the August of 1972. I was 13 \n\n\n\n\n\n\n &lt;&lt;Ferry 3.jpg&gt;&gt;  \nBrian Ferry for weekender\n\nBryan Ferry",
+          "photographer": "mrothfield@theherald.com.au",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1546463305646
+        },
+        {
+          "id": 1030054912,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/9/n/g/g/image.related.afrIndexLead.1536x1010.h1aw7a.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1546463305646,
+          "sponsored": false,
+          "description": "I adored Bryan Ferry from the first time I saw Roxy Music perform their first single Virginia Plain on Top Of The Pops in the August of 1972. I was 13 \n\n\n\n\n\n\n &lt;&lt;Ferry 3.jpg&gt;&gt;  \nBrian Ferry for weekender\n\nBryan Ferry",
+          "photographer": "mrothfield@theherald.com.au",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1546463305646
+        },
+        {
+          "id": 1030123082,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/4/2/2/image.related.afrArticleInline.620x0.h1aw7a.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549853862798,
+          "sponsored": false,
+          "description": "Bryan Ferry with his first wife Lucy Helmore, whom he divorced  for adultery in 2003 after a 20-year marriage.",
+          "photographer": "Alamy ",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549853862798
+        },
+        {
+          "id": 1030123112,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/4/2/w/image.related.afrArticleInline.620x0.h1aw7a.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549854263629,
+          "sponsored": false,
+          "description": "Pop star Brian Ferry walking form customs to a waiting car after his arrival at Sydney Airport today. May 3, 1977.",
+          "photographer": "Fairfax Media",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549854263629
+        },
+        {
+          "id": 1030123084,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/4/2/4/image.related.afrArticleInline.620x0.h1aw7a.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549853867307,
+          "sponsored": false,
+          "description": "<i>For Your Pleasure</i> cover artwork. Released in 1973, it was Roxy Music's second album.",
+          "photographer": "Alamy",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549853867307
+        },
+        {
+          "id": 1030123085,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/4/2/5/image.related.afrArticleInline.620x0.h1aw7a.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549878893038,
+          "sponsored": false,
+          "description": "For anyone who ever had a crush on Ferry, his private life has been a source of frustration and fascination for almost half a century. ",
+          "photographer": "",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549878893038
+        },
+        {
+          "id": 1030123083,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/4/2/3/image.related.afrArticleInline.620x0.h1aw7a.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1549853865508,
+          "sponsored": false,
+          "description": "Julie Burchill in 1994. In a horrible twist on the writing advice \"kill your darlings\", I turned on the things – the people – I loved.",
+          "photographer": "Alamy ",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1549853865508
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "The Telegraph, London"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Dear Bryan, I didn't mean to hurt you",
+        "overrideIdentifier": "",
+        "overrideAbstract": "When she joined the music press, the author knew she'd have to turn on the people she loved."
+      },
+      "timeStamp": 1550145600000
+    },
+    {
+      "id": 1030131318,
+      "categories": [
+        {
+          "name": "World",
+          "sectionPath": "/news/world",
+          "orderNum": 1
+        },
+        {
+          "name": "World",
+          "sectionPath": "/news/politics/world",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jacob Greber",
+          "title": "United States Correspondent",
+          "email": "jgreber@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026190170,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/t/e/i/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508654601287.png",
+              "lastModified": 1508654601287,
+              "sponsored": false,
+              "description": "Jacob Greber AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1508654601287
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/world/donald-trump-to-sign-border-bill-declare-emergency-to-fund-wall-20190214-h1baeu",
+      "lastModified": 1550208591764,
+      "onTime": 1550177645000,
+      "sponsored": false,
+      "headline": "Donald Trump to declare emergency to fund wall",
+      "indexHeadline": "Trump to declare emergency to get wall money",
+      "tabletHeadline": "",
+      "theAbstract": "President Donald Trump will declare a national emergency to get more money for a border wall from other parts of the federal budget.",
+      "byLine": "Jacob Greber",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 8944338,
+          "categories": [
+            {
+              "name": "Video World News",
+              "sectionPath": "/video-news/video-world-news",
+              "orderNum": 0
+            }
+          ],
+          "brands": [
+            {
+              "title": "The Sydney Morning Herald",
+              "orderNum": 4
+            },
+            {
+              "title": "Business Day",
+              "orderNum": 2
+            },
+            {
+              "title": "Essential Baby",
+              "orderNum": 1
+            },
+            {
+              "title": "Drive",
+              "orderNum": 0
+            },
+            {
+              "title": "Domain",
+              "orderNum": 7
+            },
+            {
+              "title": "National Times",
+              "orderNum": 8
+            },
+            {
+              "title": "The Age",
+              "orderNum": 5
+            },
+            {
+              "title": "Canberra Times",
+              "orderNum": 9
+            },
+            {
+              "title": "Brisbane Times",
+              "orderNum": 3
+            },
+            {
+              "title": "WA Today",
+              "orderNum": 6
+            }
+          ],
+          "authors": [],
+          "url": "http://domain.com.au/video-news/donald-trump-to-sign-border-bill-20190214-5bphu/",
+          "lastPublishedDate": 1550178198075,
+          "lastModified": 1550178199008,
+          "sponsored": false,
+          "assetType": "VIDEO",
+          "headline": "Donald Trump to sign border bill",
+          "timeStamp": 1550178198075
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030132499,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/b/b/n/image.related.afrArticleLead.1536x1010.h1baeu.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550202197045,
+          "sponsored": false,
+          "description": "epaselect epa07313093 Families that crossed the border to enter the United States illegally turn themselves in, to United States Border Patrol agents next to a fence along the Rio Grande River near McAllen, in Texas, USA, 23 January 2019. According to reports, the nearly two thousand mile United States Mexico border is the most frequently crossed international border in the world.  EPA/LARRY W. SMITH .",
+          "photographer": "LARRY W. SMITH",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550202197045
+        },
+        {
+          "id": 1030132499,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/b/b/n/image.related.afrIndexLead.1536x1010.h1baeu.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550202197045,
+          "sponsored": false,
+          "description": "epaselect epa07313093 Families that crossed the border to enter the United States illegally turn themselves in, to United States Border Patrol agents next to a fence along the Rio Grande River near McAllen, in Texas, USA, 23 January 2019. According to reports, the nearly two thousand mile United States Mexico border is the most frequently crossed international border in the world.  EPA/LARRY W. SMITH .",
+          "photographer": "LARRY W. SMITH",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1550202197045
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Trump to declare emergency to get wall money",
+        "overrideIdentifier": "",
+        "overrideAbstract": "President Donald Trump will declare a national emergency to get more money for a border wall from other parts of the federal budget."
+      },
+      "hasVideo": true,
+      "timeStamp": 1550208377137
+    },
+    {
+      "id": 1030131147,
+      "categories": [
+        {
+          "name": "NSW",
+          "sectionPath": "/real-estate/residential/nsw",
+          "orderNum": 1
+        },
+        {
+          "name": "Residential",
+          "sectionPath": "/real-estate/residential",
+          "orderNum": 2
+        },
+        {
+          "name": "Real Estate",
+          "sectionPath": "/real-estate",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Su-Lin Tan",
+          "title": "Reporter",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1029550552,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/y/u/a/g/image.imgtype.afrWoodcutAuthorImage.140x140.png/1523858572686.jpg",
+              "lastModified": 1523858572686,
+              "sponsored": false,
+              "description": " ",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1523858572686
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/real-estate/harry-seidlers-level-40-penthouse-at-sydneys-horizon-for-sale-at-20m-20190214-h1baa3",
+      "lastModified": 1550183819320,
+      "onTime": 1550134814000,
+      "sponsored": false,
+      "headline": "Harry Seidler's Level 40 penthouse at Sydney's Horizon for sale at $20m",
+      "indexHeadline": "Seidler's Horizon penthouse for sale",
+      "tabletHeadline": "",
+      "theAbstract": "The crown in Harry Seidler's famous Horizon apartment tower in Sydney's Darlinghurst, the penthouse on level 40 is back on the market for $20 million.",
+      "byLine": "Su-Lin Tan",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1029587083,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/z/m/h/7/image.related.afrArticleInline.620x0.h1baa3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1525389177307,
+          "sponsored": false,
+          "description": "Harry Seidler Horizon penthouse is for sale for $20m.",
+          "photographer": "Robert Pearce",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1525389177307
+        },
+        {
+          "id": 1030131194,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/b/e/image.related.afrArticleLead.1536x1010.h1baa3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550149796811,
+          "sponsored": false,
+          "description": "The revamped Level 40 penthouse at the top of Harry Seidler's Horizon tower in Darlinghurst, Sydney.",
+          "photographer": "Supplied",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1550149796811
+        },
+        {
+          "id": 1030131198,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/b/i/image.related.afrIndexLead.1536x1010.h1baa3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550149805319,
+          "sponsored": false,
+          "description": "Views from Level 40 penthouse at the top of Harry Seidler's Horizon tower in Darlinghurst, Sydney.",
+          "photographer": "Supplied",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1550149805319
+        },
+        {
+          "id": 1030131198,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/b/i/image.related.afrArticleInline.620x0.h1baa3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550149805319,
+          "sponsored": false,
+          "description": "Views from Level 40 penthouse at the top of Harry Seidler's Horizon tower in Darlinghurst, Sydney.",
+          "photographer": "Supplied",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550149805319
+        },
+        {
+          "id": 1030131196,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/b/a/b/g/image.related.afrArticleInline.620x0.h1baa3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1550149801076,
+          "sponsored": false,
+          "description": "The living area now. ",
+          "photographer": "Supplied",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1550149801076
+        },
+        {
+          "id": 1029502375,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/x/t/4/7/image.related.afrArticleInline.620x0.h1baa3.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1521678398465,
+          "sponsored": false,
+          "description": "The living area before it was renovated.",
+          "photographer": "Unknown",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1521678398465
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Seidler's Horizon penthouse for sale",
+        "overrideIdentifier": "",
+        "overrideAbstract": "The crown in Harry Seidler's famous Horizon apartment tower in Sydney's Darlinghurst, the penthouse on level 40 is back on the market for $20 million."
+      },
+      "timeStamp": 1550183806885
+    },
+    {
+      "id": 1030131384,
+      "categories": [
+        {
+          "name": "Currencies",
+          "sectionPath": "/markets/currencies",
+          "orderNum": 0
+        },
+        {
+          "name": "Economy",
+          "sectionPath": "/news/economy",
+          "orderNum": 1
+        }
+      ],
+      "authors": [
+        {
+          "name": "Matthew Cranston",
+          "title": "Reporter",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026219836,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/a/k/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508658705073.png",
+              "lastModified": 1508658705073,
+              "sponsored": false,
+              "description": "Matt Cranston AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1508658705073
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/economy/rbas-kent-says-slipping-a-helpful-for-economic-situation-20190214-h1bago",
+      "lastModified": 1550182122296,
+      "onTime": 1550180410000,
+      "sponsored": false,
+      "headline": "RBA's Kent says slipping $A 'helpful' for economic situation   ",
+      "indexHeadline": "RBA's Kent says slipping $A 'helpful' for economic situation ",
+      "tabletHeadline": "",
+      "theAbstract": "Reserve Bank assistant governor Christopher Kent says the recent depreciation in the Australian dollar has been \"helpful\" at a time where inflation remains weak.",
+      "byLine": "Matthew Cranston",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1030131207,
+          "categories": [
+            {
+              "name": "Currencies",
+              "sectionPath": "/markets/currencies",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/markets/currencies/pimcos-sachin-gupta-goes-with-gut-on-fx-as-rich-dollar-defies-models-20190214-h1babr",
+          "lastModified": 1550173666115,
+          "onTime": 1550160361000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Pimco's Sachin Gupta goes with gut on FX as 'rich' dollar defies models",
+          "timeStamp": 1550173663325
+        },
+        {
+          "id": 1030129007,
+          "categories": [
+            {
+              "name": "Markets",
+              "sectionPath": "/markets",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Sarah Turner",
+              "title": "Reporter",
+              "email": "s.turner@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": []
+            }
+          ],
+          "url": "http://www.afr.com/markets/cba-hsbc-downgrade-australian-dollar-forecasts-20190213-h1b8mn",
+          "lastModified": 1550128738139,
+          "onTime": 1550097160000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "CBA, HSBC downgrade Australian dollar forecasts",
+          "timeStamp": 1550119128955
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1016886869,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/t/f/e/x/h/image.related.afrArticleLead.1536x1010.h1bago.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1502251413443,
+          "sponsored": false,
+          "description": "Reserve Bank assistant governor Christopher Kent says the recent depreciation in the Australian dollar has been \"helpful\" at a time where inflation remains weak.",
+          "photographer": "Brendon Thorne",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1502251413443
+        },
+        {
+          "id": 1016886869,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/t/f/e/x/h/image.related.afrIndexLead.1536x1010.h1bago.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1502251413443,
+          "sponsored": false,
+          "description": "Reserve Bank assistant governor Christopher Kent says the recent depreciation in the Australian dollar has been \"helpful\" at a time where inflation remains weak.",
+          "photographer": "Brendon Thorne",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1502251413443
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "RBA's Kent says slipping $A 'helpful' for economic situation ",
+        "overrideIdentifier": "",
+        "overrideAbstract": "Reserve Bank assistant governor Christopher Kent says the recent depreciation in the Australian dollar has been \"helpful\" at a time where inflation remains weak."
+      },
+      "timeStamp": 1550182000327
+    },
+    {
+      "id": 1030128918,
+      "categories": [
+        {
+          "name": "Accounting",
+          "sectionPath": "/business/accounting",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Tom McIlroy",
+          "title": "Political Reporter",
+          "email": "thomas.mcilroy@smh.com.au",
+          "relatedAssets": [],
+          "relatedImages": []
+        },
+        {
+          "name": "Edmund Tadros",
+          "title": "Professional services editor",
+          "email": "edmundtadros@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1026189305,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/s/q/h/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508658366137.png",
+              "lastModified": 1508658366137,
+              "sponsored": false,
+              "description": "Edmund Tadros AFR Woodcut",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1508658366137
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/business/accounting/private-dinner-between-deloitte-ey-kpmg-and-pwc-chiefs-in-spotlight-20190213-h1b8k6",
+      "lastModified": 1550195133162,
+      "onTime": 1550145600000,
+      "sponsored": false,
+      "headline": "Private dinner between Deloitte, EY, KPMG and PwC chiefs in spotlight",
+      "indexHeadline": "Spotlight on big four CEO dinner",
+      "tabletHeadline": "",
+      "theAbstract": "CEOs of competitors should not have private meetings together, given the breadth of cartel conduct laws and \"concerted practices\" prohibition that can apply to sharing sensitive business information, experts say.",
+      "byLine": "Edmund Tadros and Tom McIlroy",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1030125548,
+          "categories": [
+            {
+              "name": "Accounting",
+              "sectionPath": "/business/accounting",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Tom McIlroy",
+              "title": "Political Reporter",
+              "email": "thomas.mcilroy@smh.com.au",
+              "relatedAssets": [],
+              "relatedImages": []
+            },
+            {
+              "name": "Edmund Tadros",
+              "title": "Professional services editor",
+              "email": "edmundtadros@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026189305,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/s/q/h/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508658366137.png",
+                  "lastModified": 1508658366137,
+                  "sponsored": false,
+                  "description": "Edmund Tadros AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508658366137
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/business/accounting/deloitte-ey-kpmg-pwc-probed-by-accc-over-cartel-conduct-20190212-h1b5yk",
+          "lastModified": 1549972800000,
+          "onTime": 1549972800000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Deloitte, EY, KPMG, PwC probed by ACCC over cartel conduct",
+          "timeStamp": 1549972800000
+        },
+        {
+          "id": 1030127632,
+          "categories": [
+            {
+              "name": "Accounting",
+              "sectionPath": "/business/accounting",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Edmund Tadros",
+              "title": "Professional services editor",
+              "email": "edmundtadros@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1026189305,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/y/s/q/h/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508658366137.png",
+                  "lastModified": 1508658366137,
+                  "sponsored": false,
+                  "description": "Edmund Tadros AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508658366137
+                }
+              ]
+            },
+            {
+              "name": "Tom McIlroy",
+              "title": "Political Reporter",
+              "email": "thomas.mcilroy@smh.com.au",
+              "relatedAssets": [],
+              "relatedImages": []
+            }
+          ],
+          "url": "http://www.afr.com/business/accounting/the-acccs-cartel-probe-into-deloitte-ey-kpmg-pwc-difficult-to-prove-20190213-h1b7kg",
+          "lastModified": 1550053216553,
+          "onTime": 1549972800000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "The ACCC's cartel probe into Deloitte, EY, KPMG, PwC 'difficult to prove'",
+          "timeStamp": 1550038103490
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1029796881,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/4/4/c/x/image.related.afrArticleInline.620x0.h1b8k6.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1534481550397,
+          "sponsored": false,
+          "description": "L-R: KPMG CEO Gary Wingrove, PwC CEO Luke Sayers, Deloitte's former CEO Cindy Hook and EY head Tony Johnson.",
+          "photographer": "",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1534481550397
+        },
+        {
+          "id": 1029585531,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/z/l/a/3/image.related.afrArticleLead.1536x1010.h1b8k6.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1539145978414,
+          "sponsored": false,
+          "description": "Generics. Sydney CBD. 30th May 2017, Photo: Wolter Peeters, The Sydney Morning Herald. Generic big four accounting firms, Ernst and Young, EY, KPMG, Deloitte, PwC. May 2018. Photo collage: Ryan Stuart",
+          "photographer": "Ryan Stuart",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1539145978414
+        },
+        {
+          "id": 1029585531,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/z/l/a/3/image.related.afrIndexLead.1536x1010.h1b8k6.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1539145978414,
+          "sponsored": false,
+          "description": "Generics. Sydney CBD. 30th May 2017, Photo: Wolter Peeters, The Sydney Morning Herald. Generic big four accounting firms, Ernst and Young, EY, KPMG, Deloitte, PwC. May 2018. Photo collage: Ryan Stuart",
+          "photographer": "Ryan Stuart",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1539145978414
+        },
+        {
+          "id": 60178725,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/z/t/u/7/9/image.related.afrIndexLead.1536x1010.h1b8k6.13zzqx.png/1550226627330.jpg",
+          "lastModified": 1424389308152,
+          "sponsored": false,
+          "description": "The big four CEOs have had multiple private dinners.",
+          "photographer": "",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1424389308152
+        }
+      ],
+      "companies": [],
+      "legalStatus": "Approved",
+      "identifier": "",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Spotlight on big four CEO dinner",
+        "overrideIdentifier": "",
+        "overrideAbstract": "CEOs of competitors should not have private meetings together, given the breadth of cartel conduct laws and \"concerted practices\" prohibition that can apply to sharing sensitive business information, experts say."
+      },
+      "timeStamp": 1550195129748
+    }
+  ],
+  "relatedAssets": [],
+  "relatedImages": [],
+  "assetType": "ASSET_LIST",
+  "timeStamp": 1550226622732
+}
