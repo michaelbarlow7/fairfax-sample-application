@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="news_article_image_height">100dp</dimen>
+    <dimen name="news_article_abstract_textsize">14sp</dimen>
+    <dimen name="news_article_headline_padding">4dp</dimen>
+    <dimen name="news_article_padding">8dp</dimen>
+    <dimen name="news_article_headline_textsize">16sp</dimen>
+</resources>
