@@ -1,9 +1,9 @@
 package com.michaelbarlow.fairfaxapplication
 
 import android.arch.core.executor.testing.InstantTaskExecutorRule
-import android.arch.lifecycle.Observer
-import com.nhaarman.mockitokotlin2.mock
+import android.arch.lifecycle.*
 import io.reactivex.Single
+import org.junit.Assert
 import org.junit.Test
 
 import org.junit.Before
@@ -12,19 +12,41 @@ import org.junit.runner.RunWith
 import org.mockito.Mock
 import org.mockito.Mockito
 import org.mockito.junit.MockitoJUnitRunner
-import org.mockito.Mockito.verify
 
 
-/**
- * Example local unit test, which will execute on the development machine (host).
- *
- * See [testing documentation](http://d.android.com/tools/testing).
- */
 @RunWith(MockitoJUnitRunner::class)
 class NewsArticleViewModelUnitTest {
 
-    @Rule
-    @JvmField
+    /**
+     *  A custom observer for testing LiveData changes. It sets the lifecycle to "ON_RESUME",
+     *  and then calls the provided handler lambda, in which we can test assertions
+     */
+    class OneTimeObserver<T>(private val handler: (T) -> Unit) : Observer<T>, LifecycleOwner {
+        private val lifecycle = LifecycleRegistry(this)
+        init {
+        lifecycle.handleLifecycleEvent(Lifecycle.Event.ON_RESUME)
+        }
+
+        override fun getLifecycle(): Lifecycle = lifecycle
+
+        override fun onChanged(t: T?) {
+            handler(t!!)
+            lifecycle.handleLifecycleEvent(Lifecycle.Event.ON_DESTROY)
+        }
+    }
+
+    /**
+     * An extension function for LiveData to allow for easy testing
+     */
+    fun <T> LiveData<T>.observeOnce(onChangeHandler: (T) -> Unit) {
+        val observer = OneTimeObserver(handler = onChangeHandler)
+        observe(observer, observer)
+    }
+
+    /**
+     *  This rule ensures all operations run on the same thread.
+     */
+    @get:Rule
     var rule = InstantTaskExecutorRule()
 
     @Mock
@@ -44,34 +66,25 @@ class NewsArticleViewModelUnitTest {
 
     @Test
     fun successResponse_isCorrectFormat() {
-        val observer: Observer<Resource<List<NewsArticle>>> = mock()
         Mockito.`when`(newsArticleRepository.getNewsArticles())
             .thenReturn(Single.just(mockSuccessArticleList))
         val newsArticles = newsArticleViewModel.getNewsArticles()
-        newsArticles.observeForever(observer)
-        verify(observer).onChanged(Resource(Resource.Status.SUCCESS, mockSuccessArticleList))
+        newsArticles.observeOnce {
+            Assert.assertSame(it.status, Resource.Status.SUCCESS)
+            Assert.assertSame(it.data, mockSuccessArticleList)
+        }
     }
 
     @Test
     fun errorResponse_returnsErrorStatus() {
-        val observer: Observer<Resource<List<NewsArticle>>> = mock()
         Mockito.`when`(newsArticleRepository.getNewsArticles())
             .thenReturn(Single.error(Exception()))
         val newsArticles = newsArticleViewModel.getNewsArticles()
-        newsArticles.observeForever(observer)
-        verify(observer).onChanged(Resource(Resource.Status.ERROR, null))
+
+        newsArticles.observeOnce {
+            Assert.assertSame(it.status, Resource.Status.ERROR)
+            Assert.assertSame(it.data, null)
+        }
     }
 
-    @Test
-    fun loadingTest_returnsLoadingStatus() {
-        val observer: Observer<Resource<List<NewsArticle>>> = mock()
-        Mockito.`when`(newsArticleRepository.getNewsArticles())
-            .thenReturn(Single.just(mockSuccessArticleList))
-        val newsArticles = newsArticleViewModel.getNewsArticles()
-        newsArticles.observeForever(observer)
-        newsArticleViewModel.refreshData()
-        verify(observer).onChanged(Resource(Resource.Status.LOADING, null))
-        verify(observer).onChanged(Resource(Resource.Status.SUCCESS, mockSuccessArticleList))
-
-    }
 }
