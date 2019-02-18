@@ -1,5 +1,6 @@
 package com.michaelbarlow.fairfaxapplication
 
+import android.content.Intent
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
@@ -42,6 +43,14 @@ class NewsArticleListAdapter : RecyclerView.Adapter<NewsArticleListAdapter.NewsA
             Picasso.get()
                 .load(smallestImageURL)
                 .into(holder.view.newsArticleImage)
+        }
+
+        if (article.url != null) {
+            holder.view.setOnClickListener {
+                val intent = Intent(it.context, ArticleViewActivity::class.java)
+                intent.putExtra(ArticleViewActivity.ARTICLE_URL_EXTRA, article.url)
+                it.context.startActivity(intent)
+            }
         }
     }
 }
